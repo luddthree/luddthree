@@ -5,6 +5,7 @@
 <h3 align="center">My name is Ludvik, and I am working as an intern developer at Vilmar AS!</h3>-->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=luddthree.luddthree" />
 My name is <b>Ludvik</b> and I am working as an intern developer at Vilmar AS!
+<br><br>
 - 🌱 I’m currently learning web and app development, check out my experience [here](https://github.com/luddthree?tab=repositories)
 - 👯 I’m open to collaborate on anything!
     -  Contact me at ludvik@vang.li or [LinkedIn](https://linkedin.com/in/ludvikvangli)!
