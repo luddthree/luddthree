@@ -14,11 +14,8 @@ My name is Ludvik, and I am working as an intern developer at Vilmar AS!
 
 
 <hr>
-<br>
 <div align=center>
-  
-  <br/>
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luddthree&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=worldtime_flutter-app,flutter_idapp,pisscounter,ibexa_blog,GlobalEHR-dGUARD,ibexa_gobike_course" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luddthree&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=worldtime_flutter-app,flutter_idapp,pisscounter,ibexa_blog,GlobalEHR-dGUARD,ibexa_gobike_course" alt="top langs" />
 </div>
 <!--
 **luddthree/luddthree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
