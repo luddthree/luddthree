@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Ludvik, and I am currently an intern developer at Vilmar AS!
+My name is Ludvik, and I am working as an intern developer at Vilmar AS!
 
 - 🌱 I’m currently learning web and app development, check out my experience [here](https://github.com/luddthree?tab=repositories)
 - 👯 I’m looking to collaborate on anything!
