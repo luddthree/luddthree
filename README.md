@@ -4,7 +4,7 @@ My name is Ludvik, and I am working as an intern developer at Vilmar AS!
 
 - 🌱 I’m currently learning web and app development, check out my experience [here](https://github.com/luddthree?tab=repositories)
 - 👯 I’m looking to collaborate on anything!
-    -  Contact me at ludvik@vang.li!
+    -  Contact me at ludvik@vang.li or [LinkedIn](linkedin.com/in/ludvikvangli)!
 
 <!--
 **luddthree/luddthree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
