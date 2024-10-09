@@ -4,7 +4,8 @@ My name is Ludvik, and I am currently an intern developer at Vilmar AS!
 
 - 🔭 I’m currently working on Metrika Mind Doctors Poral for Top Doctors.
 - 🌱 I’m currently learning web and app development, check out my experience [here](https://github.com/luddthree?tab=repositories)
-- 👯 I’m looking to collaborate on anything, contect me at ludvik@vang.li!
+- 👯 I’m looking to collaborate on anything!
+    -  contect me at ludvik@vang.li!
 
 <!--
 **luddthree/luddthree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
