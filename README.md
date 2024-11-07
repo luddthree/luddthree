@@ -1,7 +1,7 @@
 <!--<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ludvik+Vangli!;" />
 </h1>
-
+ 
 <h3 align="center">My name is Ludvik, and I am working as an intern developer at Vilmar AS!</h3>-->
 My name is <b>Ludvik</b> and I am working as an intern developer at Vilmar AS! 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=luddthree.luddthree" />
